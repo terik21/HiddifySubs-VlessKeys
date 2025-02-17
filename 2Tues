@@ -390,7 +390,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.229.57:2083?encryption=none&
 vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:2053?encryption=none&security=reality&sni=github.io&fp=chrome&pbk=mCCigQPrTHY9CMHgDgfWo00ij_dgYt0sAc_uHeRFklI&sid=a4c4d9258f0685a4&type=tcp&headerType=none#353@t.me/freekesha21
 vless://b529971c-f46a-4eb9-a02d-e39cc3e83cf5@91.107.255.95:443?encryption=none&security=tls&sni=dd8.transitkala.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=dd8.transitkala.com&path=%2F#354@t.me/freekesha21
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.221:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&fp=chrome&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#355@t.me/freekesha21
-vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?encryption=none&security=none&type=tcp&headerType=none#356@t.me/freekesha21
 vless://ffaddb4b-271f-4627-983d-30016e5b0650@104.21.80.1:443?encryption=none&security=tls&sni=esna.twn24.ir&fp=random&allowInsecure=1&type=httpupgrade&host=esna.twn24.ir&path=%2F14564%2F%3Fed%3D2048#357@t.me/freekesha21
 vless://e10be62a-0b26-4bbf-8e37-0507987992a4@94.182.85.155:2074?encryption=none&security=none&type=tcp&headerType=http&host=f2773671f8b28121.iran.gov.ir#358@t.me/freekesha21
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.34.228.171:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#359@t.me/freekesha21
