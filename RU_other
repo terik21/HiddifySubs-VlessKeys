@@ -1,11 +1,11 @@
-#announce: Обновлено: 2026-04-21 20:07:17
+#announce: Обновлено: 2026-04-22 23:03:37
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: RU_other
 #support-url: https://t.me/freekesha21
 #profile-update-interval: 1
 
 
-vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#t.me@freekesha21 - 1 %F0%9F%87%B7%F0%9F%87%BA%20
-vless://c2810530-74e4-4160-b440-c4e5acc08d68@72.56.39.76:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#t.me@freekesha21 - 2 %F0%9F%87%B7%F0%9F%87%BA%20
-vless://c2810530-74e4-4160-b440-c4e5acc08d68@45.10.43.176:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=files.moscownews24.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#t.me@freekesha21 - 3 %F0%9F%87%B7%F0%9F%87%BA%20
-vless://75807638-6f19-07d0-ae08-38492ee85c88@tegr.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#t.me@freekesha21 - 4 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://75807638-6f19-07d0-ae08-38492ee85c88@5.178.87.140:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#t.me@freekesha21 - 1 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://75807638-6f19-07d0-ae08-38492ee85c88@91.206.14.229:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#t.me@freekesha21 - 2 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#t.me@freekesha21 - 3 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://75807638-6f19-07d0-ae08-38492ee85c88@91.206.14.229:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#t.me@freekesha21 - 4 %F0%9F%87%B7%F0%9F%87%BA%20
