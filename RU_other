@@ -1,11 +1,34 @@
-#announce: Обновлено: 2026-04-22 23:03:37
+#announce: Обновлено: 2026-04-23 20:21:11
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: RU_other
 #support-url: https://t.me/freekesha21
 #profile-update-interval: 1
 
 
-vless://75807638-6f19-07d0-ae08-38492ee85c88@5.178.87.140:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#t.me@freekesha21 - 1 %F0%9F%87%B7%F0%9F%87%BA%20
-vless://75807638-6f19-07d0-ae08-38492ee85c88@91.206.14.229:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#t.me@freekesha21 - 2 %F0%9F%87%B7%F0%9F%87%BA%20
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#t.me@freekesha21 - 3 %F0%9F%87%B7%F0%9F%87%BA%20
-vless://75807638-6f19-07d0-ae08-38492ee85c88@91.206.14.229:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#t.me@freekesha21 - 4 %F0%9F%87%B7%F0%9F%87%BA%20
+ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ==@45.129.3.254:60290?#t.me@freekesha21 - 1 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.3:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-1.firstvideocdn.ru#t.me@freekesha21 - 2 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#t.me@freekesha21 - 3 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://75807638-6f19-07d0-ae08-38492ee85c88@5.188.158.225:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#t.me@freekesha21 - 4 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@66.135.4.222:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#t.me@freekesha21 - 5 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.100.128:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#t.me@freekesha21 - 6 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.21.227.134:80?type=ws&host=vip.yaml7.ggff.net&path=%2F&fp=chrome#t.me@freekesha21 - 7 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@193.108.112.212:443?security=tls&type=ws&host=177-e06.pages.dev&fp=chrome&sni=177-e06.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 8 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.93.13:443?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#t.me@freekesha21 - 9 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=/@ProxyVPN11#t.me@freekesha21 - 10 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@129.212.254.251:2096?security=tls&type=ws&host=1-aym.pages.dev&fp=chrome&sni=1-aym.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 11 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@mfa.gov.ua:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=3-bio.pages.dev&fp=chrome&sni=3-bio.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 12 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.29.208:443?security=tls&type=ws&host=3-7ny.pages.dev&fp=chrome&sni=3-7ny.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 13 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@45.83.21.13:443?security=tls&type=ws&host=1-aym.pages.dev&fp=chrome&sni=1-aym.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 14 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.101.33:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#t.me@freekesha21 - 15 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?security=tls&type=ws&host=2-ee1.pages.dev&fp=chrome&sni=2-ee1.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 16 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.239.87.213:2053?security=tls&type=ws&host=3-7ny.pages.dev&fp=chrome&sni=3-7ny.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 17 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@125.227.233.197:2053?security=tls&type=ws&host=1-aym.pages.dev&fp=chrome&sni=1-aym.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 18 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@144.172.88.117:443?security=tls&type=ws&host=1-bhn.pages.dev&fp=chrome&sni=1-bhn.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 19 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@185.75.243.102:443?security=tls&type=ws&host=1-brc.pages.dev&fp=chrome&sni=1-brc.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 20 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@128.1.190.149:443?security=tls&type=ws&host=1-bhn.pages.dev&fp=chrome&sni=1-bhn.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 21 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?encryption=none&security=tls&sni=sni.latonyamadeline.ndjp.net&insecure=0&allowInsecure=0&type=ws&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#t.me@freekesha21 - 22 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@185.75.243.102:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=3-7v4.pages.dev&fp=chrome&sni=3-7v4.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 23 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.180.100.80:443?security=tls&type=ws&host=3-7gj.pages.dev&fp=chrome&sni=3-7gj.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 24 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://75807638-6f19-0190-ae08-38492ee85c88@178.72.181.134:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#t.me@freekesha21 - 25 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@tajikistan.mfa.gov.ua:443?security=tls&type=ws&host=2-ee1.pages.dev&fp=chrome&sni=2-ee1.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 26 %F0%9F%87%B7%F0%9F%87%BA%20
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@185.75.243.102:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=3-7gj.pages.dev&fp=chrome&sni=3-7gj.pages.dev&path=%2F&encryption=none#t.me@freekesha21 - 27 %F0%9F%87%B7%F0%9F%87%BA%20
