@@ -1,9 +1,8 @@
-#announce: Обновлено: 2026-09-25 19:46:33
+#announce: Обновлено: 2026-09-26 01:41:51
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: Trojan
 #support-url: https://t.me/freekesha21
 #profile-update-interval: 1
 
 
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@152.53.80.195:443?sni=abr2.freeguard.org&peer=abr2.freeguard.org&security=tls#US   TROJAN-TCP-TLS - netcup GmbH  152.53.80.195
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?sni=la.freeguard.org&peer=la.freeguard.org&security=tls#NG   TROJAN-TCP-TLS - Melbikomas UAB  103.97.91.17
+trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0#[9295][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
