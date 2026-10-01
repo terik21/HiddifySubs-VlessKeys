@@ -1,31 +1,11 @@
-#announce: Обновлено: 2026-10-01 09:55:46
+#announce: Обновлено: 2026-10-01 20:48:32
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: Trojan
 #support-url: https://t.me/freekesha21
 #profile-update-interval: 1
 
 
-trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE683%7C32.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE
-trojan://UX82473651@3.120.109.26:443?sni=actual-squid.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE704%7C24.4MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE
-trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE694%7C28.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE
-trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&peer=actual-squid.rooster465.autos&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  3.120.109.26
-trojan://UX82473651@cheerful-swan.rooster465.autos:443?sni=cheerful-swan.rooster465.autos&peer=cheerful-swan.rooster465.autos&security=tls#[675ms Польша PL 🇵🇱 @vlesstrojan]
-trojan://Trojan%4082164024@th1.zestapp778.com:443?type=tcp&security=tls&sni=th1.zestapp778.com&fp=safari#%F0%9F%87%B9%F0%9F%87%AD%20Таиланд%2C%20Samut%20Songkhram%20[🏴BL]
-trojan://Trojan%4082164024@th1.zestapp778.com:443?type=tcp&security=tls&fp=chrome&sni=th1.zestapp778.com#%F0%9F%87%B9%F0%9F%87%AD%20Таиланд%2C%20Samut%20Songkhram%20[🏴BL]
-trojan://Trojan%4082164024@us3.zestapp778.com:443?security=tls&sni=us3.zestapp778.com&type=tcp&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Denver%20%28North%20Capitol%20Hill%29%20[🏴BL]
-trojan://Trojan%4082164024@us3.zestapp778.com:443?sni=us3.zestapp778.com&peer=us3.zestapp778.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Denver%20%28North%20Capitol%20Hill%29%20[🏴BL]
-trojan://Trojan%4082164024@us3.zestapp778.com:443?security=tls&sni=us3.zestapp778.com&type=tcp&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Denver%20%28North%20Capitol%20Hill%29%20[🏴BL]
-trojan://Trojan%4082164024@us3.zestapp778.com:443?security=tls&sni=us3.zestapp778.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Denver%20%28North%20Capitol%20Hill%29%20[🏴BL]
-trojan://Trojan%4082164024@us3.zestapp778.com:443?security=tls&sni=us3.zestapp778.com&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Denver%20%28North%20Capitol%20Hill%29%20[🏴BL]
-trojan://Trojan%4082164024@us3.zestapp778.com:443?security=tls&sni=us3.zestapp778.com&type=tcp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Denver%20%28North%20Capitol%20Hill%29%20[🏴BL]
-trojan://Trojan%4082164024@us3.zestapp778.com:443?security=tls&sni=us3.zestapp778.com&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%2C%20Denver%20%28North%20Capitol%20Hill%29%20[🏴BL]
-trojan://8GXLP3dEzm7T8wP5Jx0Ufg@199.107.164.105:443?host=quictest.burncommunity.ru&path=%2F&security=tls&sni=quictest.burncommunity.ru&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20[🏴BL]
-trojan://Telegram_healer_config@104.21.70.21:443?sni=47hr9isj-655383snd63hjap38q6t.k-f3vpqaltfsxbtaxe.workers.dev&type=ws&path=%2Ftr%2Fkp0IOvZwWV0X35ln0vIh%3Fed%3D2560&alpn=http%2F1.1&fp=unsafe#%F0%9F%87%AB%F0%9F%87%B7FR_1317%7C354KB%2Fs%7CM003-260806
-trojan://Telegram_healer_config@188.114.97.6:443?sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&type=ws&path=%2Ftr%2FJ6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560&alpn=http%2F1.1&fp=unsafe#%F0%9F%87%AB%F0%9F%87%B7FR_1437%7C415KB%2Fs%7CM003-260806
-trojan://xhl549341@cf.090227.xyz:443?sni=tro.baiyi.cloudns.org&type=ws&path=%2F%3Fed%3D2560&alpn=h3&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_1359%7C339KB%2Fs%7CM003-260806
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?sni=dimskiee.biz.id&type=ws&path=%2FWangCai-8&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_604%7C582KB%2Fs%7CM003-260806
-trojan://Trojan@82164024@us3.zestapp778.com:443?sni=us3.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_531%7C115KB%2Fs%7CA004-260618
-trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@zhilegelian1.bpca2026.top:443?sni=zhilegelian1.bpca2026.top&type=ws&path=%2Fimages&host=zhilegelian1.bpca2026.top#%F0%9F%87%B9%F0%9F%87%BCTW_40%7C312KB%2Fs%7CM001-260618
-trojan://Trojan@82164024@us3.zestapp778.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us3.zestapp778.com#4018.%20%F0%9F%87%BA%F0%9F%87%B8%20TROJAN%20%7C%20SNI%3A%20us3.zestapp778.com%20%7C%20TG%3A%20%40wlrustg
-trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=/&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#[5425][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#[5423][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+trojan://UX82473651@3.120.109.26:443?sni=actual-squid.rooster465.autos&peer=actual-squid.rooster465.autos&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  3.120.109.26
+trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_44%7C155KB%2Fs%7CA004-260618
+trojan://UX82473651@3.120.109.26:443?sni=actual-squid.rooster465.autos#5029.%20%F0%9F%87%A9%F0%9F%87%AA%20TROJAN%20%7C%20SNI%3A%20actual-squid.rooster465.autos%20%7C%20TG%3A%20%40wlrustg
+trojan://Trojan@82164024@ie.tronsg.com:443?security=tls&sni=ie.tronsg.com#9341.%20%F0%9F%87%AE%F0%9F%87%AA%20TROJAN%20%7C%20SNI%3A%20ie.tronsg.com%20%7C%20TG%3A%20%40wlrustg
