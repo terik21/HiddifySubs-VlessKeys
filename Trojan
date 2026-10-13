@@ -1,46 +1,50 @@
-#announce: Обновлено: 2026-10-13 15:37:54
+#announce: Обновлено: 2026-10-13 21:06:10
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: Trojan
 #support-url: https://t.me/freekesha21
 #profile-update-interval: 1
 
 
-trojan://UX82473651@stable-python.rooster465.autos:443?security=tls&sni=stable-python.rooster465.autos#[752ms JP JP  @vlesstrojan]
-trojan://UX82473651@evident-ant.rooster465.autos:443?security=tls&sni=evident-ant.rooster465.autos#[372ms JP JP  @vlesstrojan]
-trojan://UX82473651@musical-mouse.rooster465.autos:443?allowInsecure=0&sni=musical-mouse.rooster465.autos#[536ms SG SG  @vlesstrojan]
-trojan://UX82473651@musical-mouse.rooster465.autos:443?security=tls&sni=musical-mouse.rooster465.autos#[525ms SG SG  @vlesstrojan]
-trojan://UX82473651@13.114.99.222:443?sni=allowed-poodle.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP408%7C2.4MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
-trojan://UX82473651@allowed-poodle.rooster465.autos:443?sni=allowed-poodle.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP416%7C2.0MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
-trojan://UX82473651@allowed-poodle.rooster465.autos:443?sni=allowed-poodle.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP411%7C2.1MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
-trojan://UX82473651@glorious-glider.rooster465.autos:443?sni=glorious-glider.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG332%7C2.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG
-trojan://UX82473651@pro-mako.rooster465.autos:443?sni=pro-mako.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US775%7C2.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US
-trojan://UX82473651@13.193.213.184:443?sni=stable-python.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP432%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
-trojan://UX82473651@evident-ant.rooster465.autos:443?sni=evident-ant.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP482%7C739KB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
-trojan://UX82473651@pro-mako.rooster465.autos:443?sni=pro-mako.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[202ms US US  @vlesstrojan]
-trojan://UX82473651@allowed-poodle.rooster465.autos:443?security=tls&sni=allowed-poodle.rooster465.autos#[342ms JP JP  @vlesstrojan]
-trojan://UX82473651@simple-molly.rooster465.autos:443?sni=simple-molly.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG336%7C2.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG
-trojan://UX82473651@47.131.250.125:443?sni=simple-molly.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG321%7C2.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG
-trojan://UX82473651@pure-kodiak.rooster465.autos:443?sni=pure-kodiak.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR363%7C1.0MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR
-trojan://UX82473651@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP429%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
-trojan://UX82473651@live-stallion.rooster465.autos:443?sni=live-stallion.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP434%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
-trojan://UX82473651@pure-kodiak.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pure-kodiak.rooster465.autos#[403ms KR KR  @vlesstrojan]
-trojan://UX82473651@pure-kodiak.rooster465.autos:443?sni=pure-kodiak.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[425ms KR KR  @vlesstrojan]
-trojan://UX82473651@pure-kodiak.rooster465.autos:443?security=tls&sni=pure-kodiak.rooster465.autos#[411ms KR KR  @vlesstrojan]
-trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=central-jawfish.rooster465.autos#[404ms KR KR  @vlesstrojan]
-trojan://UX82473651@normal-macaque.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=normal-macaque.rooster465.autos#[349ms JP JP  @vlesstrojan]
-trojan://UX82473651@simple-molly.rooster465.autos:443?security=tls&sni=simple-molly.rooster465.autos#[471ms SG SG  @vlesstrojan]
-trojan://UX82473651@3.34.192.47:443?sni=central-jawfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR334%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR
-trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=central-jawfish.rooster465.autos#[400ms KR KR  @vlesstrojan]
-trojan://UX82473651@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR317%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR
-trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&sni=central-jawfish.rooster465.autos#[400ms KR KR  @vlesstrojan]
-trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP436%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
-trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP444%7C1.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
-trojan://UX82473651@allowed-poodle.rooster465.autos:443?allowInsecure=0&sni=allowed-poodle.rooster465.autos#[569ms JP JP  @vlesstrojan]
-trojan://UX82473651@normal-macaque.rooster465.autos:443?security=tls&sni=normal-macaque.rooster465.autos#[502ms JP JP  @vlesstrojan]
-trojan://UX82473651@live-stallion.rooster465.autos:443?security=tls&sni=live-stallion.rooster465.autos#[630ms JP JP  @vlesstrojan]
-trojan://trj-qWC4DKUemeUYWSKA1xx7okumSKKw0QSX@38.181.42.136:9443?allowInsecure=0&sni=www.jqyverse.com#[1192ms US US  @vlesstrojan]
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@188.114.97.6:443?path=%2Fanyway&security=tls&alpn=http%2F1.1&insecure=0&host=nat3.xxai.dpdns.org&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=nat3.xxai.dpdns.org#RELAY
+trojan://UX82473651@3.112.29.244:443?sni=evident-ant.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP236%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://UX82473651@glorious-glider.rooster465.autos:443?sni=glorious-glider.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG186%7C2.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG
+trojan://UX82473651@pro-mako.rooster465.autos:443?sni=pro-mako.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US590%7C2.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US
+trojan://UX82473651@pro-mako.rooster465.autos:443?sni=pro-mako.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[93ms US US  @vlesstrojan]
+trojan://UX82473651@18.141.136.8:443?sni=musical-mouse.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG222%7C1.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG
+trojan://UX82473651@evident-ant.rooster465.autos:443?sni=evident-ant.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP246%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP308%7C611KB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP242%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://UX82473651@normal-macaque.rooster465.autos:443?security=tls&sni=normal-macaque.rooster465.autos#[358ms JP JP  @vlesstrojan]
+trojan://UX82473651@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR152%7C1.4MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR
+trojan://UX82473651@live-stallion.rooster465.autos:443?sni=live-stallion.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP283%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://UX82473651@pure-kodiak.rooster465.autos:443?sni=pure-kodiak.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR133%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR
+trojan://UX82473651@pure-kodiak.rooster465.autos:443?security=tls&sni=pure-kodiak.rooster465.autos#[367ms KR KR  @vlesstrojan]
+trojan://UX82473651@pure-kodiak.rooster465.autos:443?sni=pure-kodiak.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[368ms KR KR  @vlesstrojan]
+trojan://UX82473651@pure-kodiak.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pure-kodiak.rooster465.autos#[364ms KR KR  @vlesstrojan]
+trojan://UX82473651@evident-ant.rooster465.autos:443?security=tls&sni=evident-ant.rooster465.autos#[381ms JP JP  @vlesstrojan]
+trojan://UX82473651@musical-mouse.rooster465.autos:443?sni=musical-mouse.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG196%7C2.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG
+trojan://UX82473651@evident-ant.rooster465.autos:443?type=tcp&security=tls&sni=evident-ant.rooster465.autos&fp=chrome#[238ms JP JP  @vlesstrojan]
+trojan://UX82473651@live-stallion.rooster465.autos:443?security=tls&sni=live-stallion.rooster465.autos#[377ms JP JP  @vlesstrojan]
+trojan://UX82473651@musical-mouse.rooster465.autos:443?allowInsecure=0&sni=musical-mouse.rooster465.autos#[408ms SG SG  @vlesstrojan]
+trojan://UX82473651@musical-mouse.rooster465.autos:443?security=tls&sni=musical-mouse.rooster465.autos#[879ms SG SG  @vlesstrojan]
+trojan://UX82473651@47.131.250.125:443?sni=simple-molly.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG223%7C1.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG
+trojan://UX82473651@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP288%7C1.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://UX82473651@stable-python.rooster465.autos:443?security=tls&sni=stable-python.rooster465.autos#[371ms JP JP  @vlesstrojan]
+trojan://UX82473651@normal-macaque.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=normal-macaque.rooster465.autos#[1380ms JP JP  @vlesstrojan]
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?sni=allowed-poodle.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP256%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://UX82473651@simple-molly.rooster465.autos:443?security=tls&sni=simple-molly.rooster465.autos#[430ms SG SG  @vlesstrojan]
+trojan://UX82473651@simple-molly.rooster465.autos:443?sni=simple-molly.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG214%7C1.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG
+trojan://UX82473651@13.114.99.222:443?sni=allowed-poodle.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP228%7C2.1MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?security=tls&sni=allowed-poodle.rooster465.autos#[343ms JP JP  @vlesstrojan]
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?allowInsecure=0&sni=allowed-poodle.rooster465.autos#[495ms JP JP  @vlesstrojan]
+trojan://UX82473651@13.193.213.184:443?sni=stable-python.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP243%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?sni=allowed-poodle.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP252%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=central-jawfish.rooster465.autos#[2068ms KR KR  @vlesstrojan]
+trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&sni=central-jawfish.rooster465.autos#[491ms KR KR  @vlesstrojan]
+trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=central-jawfish.rooster465.autos#[2012ms KR KR  @vlesstrojan]
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&security=tls&sni=nat3.xxai.dpdns.org#
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?allowInsecure=0&sni=nat3.xxai.dpdns.org&type=ws&host=nat3.xxai.dpdns.org&path=/anyway#
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?security=tls&sni=nat3.xxai.dpdns.org&type=ws&path=/anyway&Host=nat3.xxai.dpdns.org#%F0%9F%8F%81RELAY-104.18.65.57-0803
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?host=nat3.xxai.dpdns.org&path=%2Fanyway&sni=nat3.xxai.dpdns.org&type=ws#
-trojan://UX82473651@3.112.29.244:443?sni=evident-ant.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5JP_56%7C69KB%2Fs%7CA004-260618
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?allowInsecure=0&sni=nat3.xxai.dpdns.org&type=ws&host=nat3.xxai.dpdns.org&path=/anyway#
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?security=tls&sni=nat3.xxai.dpdns.org&type=ws&path=%2Fanyway&Host=nat3.xxai.dpdns.org#%F0%9F%8F%81RELAY-104.18.65.57-0530
+trojan://9e1006cd4fa01b63e710d6550c0de1a1@172.67.248.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/u/fb66dcb77cc6?ed=2560&security=tls&insecure=0&host=edge-relay-af904f2b.nova-963a1b9c8400.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=edge-relay-af904f2b.nova-963a1b9c8400.workers.dev#
+trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ca.tronsg.com#5264.%20TROJAN%20%7C%20SNI%3A%20ca.tronsg.com%20%7C%20TG%3A%20%40wlrustg
