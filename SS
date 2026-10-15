@@ -1,13 +1,15 @@
-#announce: Обновлено: 2026-10-14 21:17:43
+#announce: Обновлено: 2026-10-15 10:08:38
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: SS
 #support-url: https://t.me/freekesha21
 #profile-update-interval: 1
 
 
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#[145ms JP JP  @vlesstrojan]
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#[160ms JP JP  @vlesstrojan]
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#[143ms JP JP  @vlesstrojan]
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#[218ms JP JP  @vlesstrojan]
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#[248ms IN IN  @vlesstrojan]
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#[32ms CA CA  @vlesstrojan]
+ss://2022-blake3-aes-256-gcm:sUR6Ny8Y6PSvHhl%2FDUxconwxg6VZyFdsdfaVCvEatJo%3D%3A7bTEhHgpErKiRjE1ega%2BH6pcpJsNLFB0CjQseujAHrA%3D@129.150.59.74:14384#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG250%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206c1VSNk55OFk2UFN2SGhsL0RVeGNvbnd4ZzZWWnlGZHNkZmFWQ3ZFYXRKbz06N2JURWhIZ3BFcktpUmpFMWVnYStINnBjcEpzTkxGQjBDalFzZXVqQUhyQT0=@129.150.59.74:14384#[199ms SG SG  @vlesstrojan]
+ss://YWVzLTEyOC1nY206ZWRhZDY5ZDktZWE5OS00Y2U5LWJhZTgtOGZlZGMyYWZjYmY0@ruot.ayucloudservices.nl:40040#[249ms US US  @vlesstrojan]
+ss://YWVzLTI1Ni1nY206YWM5YzBhN2I=@ce1fc2d8.krkt.hkssip.com:49642#[277ms KR KR  @vlesstrojan]
+ss://YWVzLTI1Ni1nY206YWM5YzBhN2I@ce1fc2d8.krkt.hkssip.com:49642#[382ms KR KR  @vlesstrojan]
+ss://YWVzLTI1Ni1nY206OTk0Y2NhYmY2ZjA5NTBkNg==@89.125.103.208:20111#%F0%9F%87%B7%F0%9F%87%BARU_3%7C229KB%2Fs%7CK001-260618
+ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ==@139.84.166.47:8388#%F0%9F%87%AE%F0%9F%87%B3IN_7%7C245KB%2Fs%7CM003-260806
+ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA==@216.128.168.190:8388#@Alirewa-1522
