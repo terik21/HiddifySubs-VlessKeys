@@ -1,37 +1,28 @@
-#announce: Обновлено: 2026-10-16 18:54:34
+#announce: Обновлено: 2026-10-17 18:28:18
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: Trojan
 #support-url: https://t.me/freekesha21
 #profile-update-interval: 1
 
 
-trojan://UX82473651@47.131.250.125:443?sni=simple-molly.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG156%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG
-trojan://Trojan%4082164024@jp.tronsg.com:443?sni=jp.tronsg.com&type=tcp#[302ms JP JP  @vlesstrojan]
-trojan://UX82473651@simple-molly.rooster465.autos:443?sni=simple-molly.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG150%7C2.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG
-trojan://UX82473651@3.36.50.213:443?sni=pure-kodiak.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR79%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR
-trojan://UX82473651@simple-molly.rooster465.autos:443?security=tls&sni=simple-molly.rooster465.autos#[446ms SG SG  @vlesstrojan]
-trojan://UX82473651@pure-kodiak.rooster465.autos:443?security=tls&sni=pure-kodiak.rooster465.autos&fp=&type=tcp#[486ms KR KR  @vlesstrojan]
-trojan://UX82473651@pure-kodiak.rooster465.autos:443?security=tls&sni=pure-kodiak.rooster465.autos#[423ms KR KR  @vlesstrojan]
-trojan://Trojan%4082164024@ca.tronsg.com:443?allowInsecure=0&sni=ca.tronsg.com#[3283ms CA CA  @vlesstrojan]
-trojan://UX82473651@47.131.250.125:443?sni=simple-molly.rooster465.autos&peer=simple-molly.rooster465.autos&security=tls#SG   TROJAN-TCP-TLS - AMAZON-02  47.131.250.125
-trojan://UX82473651@simple-molly.rooster465.autos:443?security=tls&sni=simple-molly.rooster465.autos&fp=chrome&type=tcp#[621ms SG SG  @vlesstrojan]
-trojan://UX82473651@simple-molly.rooster465.autos:443?security=tls&sni=simple-molly.rooster465.autos&fp=&type=tcp#[1051ms SG SG  @vlesstrojan]
-trojan://cMCQxnflDO@31.76.10.180:36508?security=none#GB   TROJAN-TCP-NTLS  31.76.10.180
-trojan://UX82473651@pure-kodiak.rooster465.autos:443?security=tls&sni=pure-kodiak.rooster465.autos&fp=chrome&type=tcp#[650ms KR KR  @vlesstrojan]
-trojan://UX82473651@pure-kodiak.rooster465.autos:443?sni=pure-kodiak.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[589ms KR KR  @vlesstrojan]
-trojan://Trojan@82164024@jp.tronsg.com:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-108.61.186.37-5077
-trojan://UX82473651@3.36.50.213:443?sni=pure-kodiak.rooster465.autos&peer=pure-kodiak.rooster465.autos&security=tls#KR   TROJAN-TCP-TLS - AMAZON-02  3.36.50.213
-trojan://Trojan%4082164024@ca.tronsg.com:443?sni=ca.tronsg.com&peer=ca.tronsg.com&security=tls#CA   TROJAN-TCP-TLS - AS-VULTR  155.138.138.2
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@104.18.65.57:443?security=tls&sni=nat3.xxai.dpdns.org&type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&allowInsecure=0#
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&security=tls&sni=nat3.xxai.dpdns.org#
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?security=tls&sni=nat3.xxai.dpdns.org&type=ws&path=%2Fanyway&Host=nat3.xxai.dpdns.org#RELAY
+trojan://Trojan%4082164024@ca.tronsg.com:443?security=tls&sni=ca.tronsg.com&fp=&type=tcp#[197ms CA CA  @vlesstrojan]
+trojan://Trojan%4082164024@jp.tronsg.com:443?sni=jp.tronsg.com&type=tcp#[275ms JP JP  @vlesstrojan]
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%2C%20Amsterdam%20[🏴BL]
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls#IE   TROJAN-TCP-TLS - Enet Communications LIMITED  78.17.171.62
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?host=freetoplay-2.tetris-game.world&path=%2Ff2fc2a1f&security=tls&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&type=ws#[690ms Нидерланды NL 🇳🇱 @vlesstrojan]
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=/f2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#[3684ms Нидерланды NL 🇳🇱 @vlesstrojan]
+trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ca.tronsg.com#EPODONIOS
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@172.64.152.241:443?sni=server41.9966338.xyz&type=ws&host=server41.9966338.xyz&path=%2Fangles#
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@uk8.998998.best:443?host=server41.9966338.xyz&path=%2Fangles&sni=server41.9966338.xyz&type=ws#
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@104.18.66.57:443?security=tls&sni=nat3.xxai.dpdns.org&type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&allowInsecure=0#
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?host=nat3.xxai.dpdns.org&path=%2Fanyway&sni=nat3.xxai.dpdns.org&type=ws#
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@188.114.97.6:443?path=%2Fanyway&security=tls&alpn=http%2F1.1&insecure=0&host=nat3.xxai.dpdns.org&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=nat3.xxai.dpdns.org#RELAY
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@104.18.66.57:443?security=tls&sni=nat3.xxai.dpdns.org&type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&allowInsecure=0#
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@104.18.65.57:443?security=tls&sni=nat3.xxai.dpdns.org&type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&allowInsecure=0#
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?host=nat3.xxai.dpdns.org&path=%2Fanyway&sni=nat3.xxai.dpdns.org&type=ws#
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&security=tls&sni=nat3.xxai.dpdns.org#
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?allowInsecure=0&sni=nat3.xxai.dpdns.org&type=ws&host=nat3.xxai.dpdns.org&path=/anyway#
-trojan://Trojan@82164024@jp.tronsg.com:443?sni=jp.tronsg.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_52%7C321KB%2Fs%7CM001-260618
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@sg2.998998.best:443?sni=nat6.outsidemyheart.space&type=ws&path=%2Feriujtheriughwiue%3Fed%3D2560&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_59%7C681KB%2Fs%7CM002-260618
-trojan://Trojan@82164024@jp.tronsg.com:443?sni=jp.tronsg.com&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5JP_54%7C249KB%2Fs%7CA004-260618
-trojan://cMCQxnflDO@31.76.10.180:36508?type=tcp&security=none#4232.%20TROJAN%20%7C%20TG%3A%20%40wlrustg
-trojan://UX82473651@3.36.50.213:443?security=tls&sni=pure-kodiak.rooster465.autos&fp=chrome&type=tcp#263.%20TROJAN%20%7C%20SNI%3A%20pure-kodiak.rooster465.autos%20%7C%20TG%3A%20%40wlrustg
+trojan://Trojan@82164024@jp.tronsg.com:443?sni=jp.tronsg.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_57%7C352KB%2Fs%7CM001-260618
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=freetoplay-2.tetris-game.world&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1PL_46%7C206KB%2Fs%7CA004-260618
+trojan://Trojan@82164024@jp.tronsg.com:443?sni=jp.tronsg.com&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5JP_58%7C554KB%2Fs%7CA004-260618
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@uk8.998998.best:443?security=tls&sni=server41.9966338.xyz&fp=&type=ws&path=/angles&host=server41.9966338.xyz#1613.%20TROJAN%20%7C%20SNI%3A%20server41.9966338.xyz%20%7C%20TG%3A%20%40wlrustg
+trojan://Trojan@82164024@jp.tronsg.com:443?security=tls#6791.%20%F0%9F%87%AF%F0%9F%87%B5%20TROJAN%20%7C%20SNI%3A%20jp.tronsg.com%20%7C%20TG%3A%20%40wlrustg
+trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&sni=ca.tronsg.com#6787.%20%F0%9F%87%A8%F0%9F%87%A6%20TROJAN%20%7C%20SNI%3A%20ca.tronsg.com%20%7C%20TG%3A%20%40wlrustg
