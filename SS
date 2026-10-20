@@ -1,14 +1,15 @@
-#announce: Обновлено: 2026-10-20 12:08:13
+#announce: Обновлено: 2026-10-20 12:28:22
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: SS
 #support-url: https://t.me/freekesha21
 #profile-update-interval: 1
 
 
-ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#t.me%2Ffreekesha21 - 1 %F0%9F%8F%B3%EF%B8%8F
-ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw==@64.176.2.21:8388#t.me%2Ffreekesha21 - 2 %F0%9F%8F%B3%EF%B8%8F
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206c1VSNk55OFk2UFN2SGhsL0RVeGNvbnd4ZzZWWnlGZHNkZmFWQ3ZFYXRKbz06N2JURWhIZ3BFcktpUmpFMWVnYStINnBjcEpzTkxGQjBDalFzZXVqQUhyQT0=@129.150.59.74:14384#t.me%2Ffreekesha21 - 1 %F0%9F%87%B8%F0%9F%87%AC
+ss://2022-blake3-aes-256-gcm:sUR6Ny8Y6PSvHhl%2FDUxconwxg6VZyFdsdfaVCvEatJo%3D%3A7bTEhHgpErKiRjE1ega%2BH6pcpJsNLFB0CjQseujAHrA%3D@129.150.59.74:14384#t.me%2Ffreekesha21 - 2 %F0%9F%87%B8%F0%9F%87%AC
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#t.me%2Ffreekesha21 - 3 %F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#t.me%2Ffreekesha21 - 4 %F0%9F%87%AF%F0%9F%87%B5
-ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ==@139.84.166.47:8388#t.me%2Ffreekesha21 - 5 %F0%9F%8F%B3%EF%B8%8F
-ss://YWVzLTI1Ni1nY206YWM5YzBhN2I@211.174.113.172:49642#t.me%2Ffreekesha21 - 6 %F0%9F%87%B0%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206YWM5YzBhN2I=@ce1fc2d8.krkt.hkssip.com:49642#t.me%2Ffreekesha21 - 7 %F0%9F%87%B0%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#t.me%2Ffreekesha21 - 5 %F0%9F%87%AF%F0%9F%87%B5
+ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY=@191.223.221.53:8388#t.me%2Ffreekesha21 - 6 %F0%9F%87%AF%F0%9F%87%B5
+ss://YWVzLTI1Ni1nY206YWM5YzBhN2I@ce1fc2d8.krkt.hkssip.com:49642#t.me%2Ffreekesha21 - 7 %F0%9F%87%B0%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206YWM5YzBhN2I@211.174.113.172:49642#t.me%2Ffreekesha21 - 8 %F0%9F%87%B0%F0%9F%87%B7
