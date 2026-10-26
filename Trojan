@@ -1,19 +1,15 @@
-#announce: Обновлено: 2026-10-25 23:11:11
+#announce: Обновлено: 2026-10-26 09:32:07
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: Trojan
 #support-url: https://t.me/freekesha21
 #profile-update-interval: 1
 
 
-trojan://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4444?type=grpc&security=tls&serviceName=kobedin-server1-trojan&mode=gun&fp=chrome&sni=45-149-147-213.sslip.io&alpn=h2#t.me%2Ffreekesha21 - 1 %F0%9F%87%AB%F0%9F%87%AE
-trojan://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4444?sni=45-149-147-213.sslip.io&type=grpc&serviceName=kobedin-server1-trojan&mode=gun&alpn=h2&fp=chrome#t.me%2Ffreekesha21 - 2 %F0%9F%87%AB%F0%9F%87%AE
+trojan://humanity@172.66.40.99:443?allowInsecure=0&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=%2Fassignment#t.me%2Ffreekesha21 - 1 %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@8.6.112.206:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#t.me%2Ffreekesha21 - 2 %F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#t.me%2Ffreekesha21 - 3 %F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@172.66.40.99:443?type=ws&security=tls&path=/assignment&host=www.trusteeforward.com&sni=www.trusteeforward.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0 #t.me%2Ffreekesha21 - 4 %F0%9F%8F%B3%EF%B8%8F
-trojan://humanity@172.66.40.99:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#t.me%2Ffreekesha21 - 5 %F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@8.6.112.206:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#t.me%2Ffreekesha21 - 6 %F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@188.114.97.6:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#t.me%2Ffreekesha21 - 7 %F0%9F%87%B3%F0%9F%87%B1
-trojan://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4444?type=grpc&security=tls&serviceName=kobedin-server1-trojan&mode=gun&fp=chrome&sni=45-149-147-213.sslip.io&alpn=h2 #t.me%2Ffreekesha21 - 8 %F0%9F%8F%B3%EF%B8%8F
-trojan://gHQP0D7D15@104.25.239.113:2053?security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&path=/#t.me%2Ffreekesha21 - 9 %F0%9F%8F%B3%EF%B8%8F
-trojan://Trojan%4082164024@155.138.138.2:443?security=tls&sni=ca.tronsg.com&fp=&type=tcp#t.me%2Ffreekesha21 - 10 %F0%9F%87%A8%F0%9F%87%A6
-trojan://Trojan%4082164024@155.138.138.2:443?security=tls&sni=ca.tronsg.com&fp=firefox&type=tcp#t.me%2Ffreekesha21 - 11 %F0%9F%87%A8%F0%9F%87%A6
-trojan://Trojan@82164024@ca.tronsg.com:443?type=tcp&security=tls&fp=chrome&sni=ca.tronsg.com#t.me%2Ffreekesha21 - 12 %F0%9F%87%A8%F0%9F%87%A6
+trojan://humanity@45.128.76.242:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#t.me%2Ffreekesha21 - 4 %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.114.97.6:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#t.me%2Ffreekesha21 - 5 %F0%9F%87%B3%F0%9F%87%B1
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?sni=dimskiee.biz.id&type=ws&path=%2FWangCai-8&fp=chrome#t.me%2Ffreekesha21 - 6 %F0%9F%8F%B3%EF%B8%8F
+trojan://humanity@172.66.40.99:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#t.me%2Ffreekesha21 - 7 %F0%9F%87%B3%F0%9F%87%B1
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.16.148.5:443?sni=dimskiee.biz.id&type=ws&path=%2FWangCai-8&fp=chrome#t.me%2Ffreekesha21 - 8 %F0%9F%87%AB%F0%9F%87%B7
