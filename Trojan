@@ -1,27 +1,17 @@
-#announce: Обновлено: 2026-10-30 20:56:56
+#announce: Обновлено: 2026-10-31 10:28:40
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: Trojan
 #support-url: https://t.me/freekesha21
 #profile-update-interval: 1
 
 
-trojan://humanity@45.128.76.242:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#t.me%2Ffreekesha21 - 1 %F0%9F%87%B7%F0%9F%87%BA
-trojan://humanity@8.6.112.206:443?type=ws&security=tls&sni=www.trusteeforward.com&fp=chrome&path=%2Fassignment&host=www.trusteeforward.com#t.me%2Ffreekesha21 - 2 %F0%9F%87%B7%F0%9F%87%BA
-trojan://humanity@8.6.112.206:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#t.me%2Ffreekesha21 - 3 %F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#t.me%2Ffreekesha21 - 4 %F0%9F%87%B7%F0%9F%87%BA
-trojan://humanity@45.128.76.242:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#t.me%2Ffreekesha21 - 5 %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@8.6.112.206:443?type=ws&security=tls&sni=www.trusteeforward.com&fp=chrome&path=%2Fassignment&host=www.trusteeforward.com#t.me%2Ffreekesha21 - 1 %F0%9F%87%B7%F0%9F%87%BA
+trojan://humanity@45.128.76.242:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#t.me%2Ffreekesha21 - 2 %F0%9F%8F%B3%EF%B8%8F
+trojan://humanity@45.128.76.242:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#t.me%2Ffreekesha21 - 3 %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#t.me%2Ffreekesha21 - 4 %F0%9F%87%B7%F0%9F%87%BA
+trojan://humanity@45.128.76.242:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#t.me%2Ffreekesha21 - 5 %F0%9F%87%B7%F0%9F%87%BA
 trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#t.me%2Ffreekesha21 - 6 %F0%9F%87%B7%F0%9F%87%BA
-trojan://humanity@45.128.76.242:443?security=tls&type=ws&sni=www.trusteeforward.com&path=/assignment#t.me%2Ffreekesha21 - 7 %F0%9F%87%BA%F0%9F%87%B8
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#t.me%2Ffreekesha21 - 8 %F0%9F%8F%B3%EF%B8%8F
-trojan://humanity@45.128.76.242:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#t.me%2Ffreekesha21 - 9 %F0%9F%8F%B3%EF%B8%8F
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?sni=blog.connectingpeoplewithgreatjobs.com&type=tcp&fp=chrome#t.me%2Ffreekesha21 - 10 %F0%9F%87%A8%F0%9F%87%A6
-trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?sni=in002.zestapp778.com&peer=in002.zestapp778.com&security=tls#t.me%2Ffreekesha21 - 11 %F0%9F%87%BA%F0%9F%87%B8
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?sni=searchcreativejobsandshowcaseyourartistictalents.com&type=tcp&fp=chrome#t.me%2Ffreekesha21 - 12 %F0%9F%87%B8%F0%9F%87%AC
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?sni=discoverparttimepositionsandsupplementyourincomeguide.com&type=tcp&fp=chrome#t.me%2Ffreekesha21 - 13 %F0%9F%87%AF%F0%9F%87%B5
-trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&sni=in002.zestapp778.com#t.me%2Ffreekesha21 - 14 %F0%9F%87%AE%F0%9F%87%B3
-trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&type=tcp&fp=chrome#t.me%2Ffreekesha21 - 15 %F0%9F%87%A7%F0%9F%87%B7
-trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?sni=in002.zestapp778.com&type=tcp&fp=chrome#t.me%2Ffreekesha21 - 16 %F0%9F%87%AE%F0%9F%87%B3
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=0&sni=mx001.zestapp778.com#t.me%2Ffreekesha21 - 17 %F0%9F%87%B2%F0%9F%87%BD
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#t.me%2Ffreekesha21 - 18 %F0%9F%8F%B3%EF%B8%8F
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?type=tcp&security=tls&fp=chrome&sni=th001.zestapp778.com#t.me%2Ffreekesha21 - 19 %F0%9F%8F%B3%EF%B8%8F
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?sni=mx001.zestapp778.com&type=tcp&fp=chrome#t.me%2Ffreekesha21 - 20 %F0%9F%87%B2%F0%9F%87%BD
+trojan://humanity@45.128.76.242:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#t.me%2Ffreekesha21 - 7 %F0%9F%87%B7%F0%9F%87%BA
+trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?type=tcp&security=tls&fp=chrome&sni=th001.zestapp778.com#t.me%2Ffreekesha21 - 8 %F0%9F%8F%B3%EF%B8%8F
+trojan://humanity@8.6.112.206:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#t.me%2Ffreekesha21 - 9 %F0%9F%87%B3%F0%9F%87%B1
+trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?sni=th001.zestapp778.com&type=tcp&fp=chrome#t.me%2Ffreekesha21 - 10 %F0%9F%87%B9%F0%9F%87%AD
