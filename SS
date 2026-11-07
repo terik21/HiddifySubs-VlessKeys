@@ -1,4 +1,4 @@
-#announce: Обновлено: 2026-11-07 05:32:43
+#announce: Обновлено: 2026-11-07 13:36:36
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: SS
 #support-url: https://t.me/freekesha21
@@ -6,6 +6,7 @@
 
 
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.58:18443#t.me%2Ffreekesha21 - 1 %F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QVVWUFpmT2VTSG1WQ015THZJdnJsMXdWTHZaZjdKdg==@207.148.110.255:1080#t.me%2Ffreekesha21 - 2 %F0%9F%87%AF%F0%9F%87%B5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN1dMYVlkdWprd25qNnh4WHEtMkJTeEdXRWNTSnRUQQ==@88.216.254.18:1080#t.me%2Ffreekesha21 - 3 %F0%9F%87%BA%F0%9F%87%B8
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.47.58:18443#t.me%2Ffreekesha21 - 4 %F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN1dMYVlkdWprd25qNnh4WHEtMkJTeEdXRWNTSnRUQQ==@88.216.254.18:1080#t.me%2Ffreekesha21 - 2 %F0%9F%87%BA%F0%9F%87%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QVVWUFpmT2VTSG1WQ015THZJdnJsMXdWTHZaZjdKdg@207.148.110.255:1080#t.me%2Ffreekesha21 - 3 %F0%9F%87%AF%F0%9F%87%B5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN1dMYVlkdWprd25qNnh4WHEtMkJTeEdXRWNTSnRUQQ@88.216.254.18:1080#t.me%2Ffreekesha21 - 4 %F0%9F%87%BA%F0%9F%87%B8
+ss://YWVzLTI1Ni1nY206V1kxSTJDcHMzQUhPaDdBUw==@103.115.17.137:8388#t.me%2Ffreekesha21 - 5 %F0%9F%87%B8%F0%9F%87%AC
