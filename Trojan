@@ -1,4 +1,4 @@
-#announce: Обновлено: 2026-11-09 15:14:14
+#announce: Обновлено: 2026-11-09 19:39:59
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: Trojan
 #support-url: https://t.me/freekesha21
@@ -6,6 +6,9 @@
 
 
 trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#t.me%2Ffreekesha21 - 1 %F0%9F%8F%B3%EF%B8%8F
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#t.me%2Ffreekesha21 - 2 %F0%9F%87%B7%F0%9F%87%BA
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?path=/categories/community/&security=tls&insecure=0&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#t.me%2Ffreekesha21 - 3 %F0%9F%87%B7%F0%9F%87%BA
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@188.114.98.0:443?path=/order/ads/&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=ltf8.jueson.de5.net&fp=unsafe&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#t.me%2Ffreekesha21 - 4 %F0%9F%87%B7%F0%9F%87%BA
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@188.114.98.0:443?sni=ltf8.jueson.de5.net&type=ws&path=%2Fcategories%2Fcommunity%2F&alpn=http%2F1.1&fp=unsafe#t.me%2Ffreekesha21 - 2 %F0%9F%87%AB%F0%9F%87%B7
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@188.114.98.0:443?path=/order/ads/&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=ltf8.jueson.de5.net&fp=unsafe&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#t.me%2Ffreekesha21 - 3 %F0%9F%87%B7%F0%9F%87%BA
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#t.me%2Ffreekesha21 - 4 %F0%9F%87%B7%F0%9F%87%BA
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?path=/categories/community/&security=tls&insecure=0&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#t.me%2Ffreekesha21 - 5 %F0%9F%87%B7%F0%9F%87%BA
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?sni=ltf8.jueson.de5.net&type=ws&path=%2Fcategories%2Fcommunity%2F&fp=chrome#t.me%2Ffreekesha21 - 6 %F0%9F%87%AB%F0%9F%87%B7
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?sni=ltf8.jueson.de5.net&type=ws&path=%2F&fp=chrome#t.me%2Ffreekesha21 - 7 %F0%9F%87%AB%F0%9F%87%B7
