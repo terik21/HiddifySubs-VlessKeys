@@ -1,8 +1,9 @@
-#announce: Обновлено: 2026-11-20 12:24:33 | [TT] TikTok, [GM] Gemini, [IG] Instagram, [YT] YouTube, [TG] Telegram
+#announce: Обновлено: 2026-11-20 21:17:01 | [TT] TikTok, [GM] Gemini, [IG] Instagram, [YT] YouTube, [TG] Telegram
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: SS
 #support-url: https://t.me/freekesha21
 #profile-update-interval: 1
 
 
-ss://2022-blake3-chacha20-poly1305:eAqTrby7a6ZOcClxTOl08kuthoCrZovFCmQj0BDqXB0%3D@144.24.229.13:61312#t.me%2Ffreekesha21 - 1 %F0%9F%87%AC%F0%9F%87%A7
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.254.128.109:443#t.me%2Ffreekesha21 - 1 %F0%9F%87%A9%F0%9F%87%AA
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@195.133.5.196:18443#t.me%2Ffreekesha21 - 2 %F0%9F%87%B7%F0%9F%87%BA
