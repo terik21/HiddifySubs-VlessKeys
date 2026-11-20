@@ -1,14 +1,8 @@
-#announce: Обновлено: 2026-11-19 17:49:34 | [TT] TikTok, [GM] Gemini, [IG] Instagram, [YT] YouTube, [TG] Telegram
+#announce: Обновлено: 2026-11-20 12:24:33 | [TT] TikTok, [GM] Gemini, [IG] Instagram, [YT] YouTube, [TG] Telegram
 #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 #profile-title: SS
 #support-url: https://t.me/freekesha21
 #profile-update-interval: 1
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Wk1OVEdwUGwzOEFTbGJJMUVLT0JK@135.220.178.46:46303#t.me%2Ffreekesha21 - 1 %F0%9F%8F%B3%EF%B8%8F
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZjJOcTVZTG55Y2xQYVdSOG15Ny9WZGQzWlg4VVJuY1haTmx5NStIY1VTcz06ZFE2V1ljUHBHWDV4SXhVVlBBUjh3MUE5ZVk2a0VWb0tLVzNIbGVKNm84WT0@77.90.10.175:8086#t.me%2Ffreekesha21 - 2 %F0%9F%87%B7%F0%9F%87%BA
-ss://2022-blake3-chacha20-poly1305:8SrAY2kEk9UHKSgUJjQvfdTJP9oPlSPVP1wICL7n3hk%3D@43.106.81.90:443#t.me%2Ffreekesha21 - 3 %F0%9F%87%B8%F0%9F%87%AC
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@jpa.123069.xyz:53758#t.me%2Ffreekesha21 - 4 %F0%9F%87%AF%F0%9F%87%B5
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#t.me%2Ffreekesha21 - 5 %F0%9F%87%AF%F0%9F%87%B5
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@168.138.205.100:53758#t.me%2Ffreekesha21 - 6 %F0%9F%87%AF%F0%9F%87%B5
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#t.me%2Ffreekesha21 - 7 %F0%9F%87%AF%F0%9F%87%B5
+ss://2022-blake3-chacha20-poly1305:eAqTrby7a6ZOcClxTOl08kuthoCrZovFCmQj0BDqXB0%3D@144.24.229.13:61312#t.me%2Ffreekesha21 - 1 %F0%9F%87%AC%F0%9F%87%A7
